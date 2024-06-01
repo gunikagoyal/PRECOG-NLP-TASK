@@ -1,11 +1,10 @@
-# PRECOG-NLP-TASK
+# Representations for Words, Phrases, Sentences
 
-# Word, Phrase, and Sentence Similarity Prediction
 
 This repository contains code for predicting similarity scores between words, phrases, and sentences using various methodologies and models.
 ## Directory Structure
 
-- `notebooks/`: Contains Jupyter notebooks for each prediction task along with results analysis.
+- `notebooks/`: Contains notebooks for each prediction task along with results analysis.
   - `word_similarity_prediction/`: Notebooks for word similarity prediction.
     - `Word2Vec.ipynb`
     - `spaCy.ipynb`
